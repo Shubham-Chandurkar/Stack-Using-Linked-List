@@ -10,7 +10,7 @@ public class Stack {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("==========================================");
 		System.out.println("Enter the operation you want to perform" + "\n 1. Push" + "\n 2. Pop" + "\n 3. Peek"
-				+ "\n 4. Display");
+				+ "\n 4. Display" + "\n 5. Exit");
 		System.out.println("==========================================");
 		int val1 = sc.nextInt();
 		switch (val1) {
